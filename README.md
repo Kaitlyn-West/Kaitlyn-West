@@ -1,6 +1,3 @@
-Hi, I’m @Kaitlyn-West, my pronouns are she/her/hers, and I am a student at the university of Cincinnati studying computer science! I've had an interest in programming for a long time, and have learned C++, Python, C#, and Java, as well as HTML, CSS, Javascript, PHP, SQL, and I've recently starting working with MatLab and LabView VI. I also really enjoy working with @desmosinc's graphing calculator, in fact, I was even one of the <a href="https://www.desmos.com/art-2023#17;sahvbml7w7">winner</a>'s for their <a href="https://www.desmos.com/art-2023#17">2023 art contest</a>!
-
-<!---
-Kaitlyn-West/Kaitlyn-West is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Hi, I’m @Kaitlyn-West, my pronouns are she/her/hers, and I am a student at the university of Cincinnati studying computer science! I've had an interest in programming ever since my middle school did a week of code
+and have learned C++, Python, C#, and Java, as well as HTML, CSS, Javascript, PHP, SQL, and I've recently starting working with MatLab and LabView VI. I also really enjoy working with @desmosinc's graphing calculator, in fact, I was even one of the [winner](https://www.desmos.com/art-2023#17;sahvbml7w7)'s for their [2023 art contets](https://www.desmos.com/art-2023#17)! I made [two](https://www.desmos.com/3d/sqwdaw1teh) [attempts](https://www.desmos.com/calculator/eqzu1wlhlq) for the 2024 art contest as well, but the 19+ age bracket had some exceptional submissions that mine couldn't quite stand up against. Nonetheless, most of my recreational programming work has been done on desmos, which presents some unqiue challenges that I enjoy having to find solutions to!
+  
